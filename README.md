@@ -10,8 +10,7 @@
 ## Project Link
 
 Click [here](https://github.com/PDUBB3/budget-tracker.git) to view project on Github repository.
-Click [here](https://stark-shelf-93926.herokuapp.com) to view project on Heroku
-Click [here](https://stark-shelf-93926.herokuapp.com) to view project on Mongo
+Click [here](https://dry-fortress-37968.herokuapp.com/) to view project on Heroku
 
 ## Description
 
