@@ -6,6 +6,7 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [What did we do](#what-did-we-do)
+- [Screenshots](#screenshots)
 
 ## Project Link
 
@@ -77,3 +78,7 @@ npm run start
 
 
 ```
+
+## Screenshots
+
+![Budget Tracker](./assets/img/budget.png)
